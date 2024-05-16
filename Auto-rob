@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("Script is currently down due to a few bugs. Be back soon!")
